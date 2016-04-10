@@ -25,7 +25,7 @@ Directory structure example :
 
 |               | Git release date | Neard release | Download |
 | --------------|:----------------:|:-------------:|:--------:|
-| **Git 1.8.4** ![](https://raw.github.com/crazy-max/neard-tool-git/master/img/star-20160403.png) | 2013/09/16 | [r1](https://github.com/crazy-max/neard-tool-git/releases/tag/r1) | [neard-git-1.8.4-r1.zip](https://github.com/crazy-max/neard-tool-git/releases/download/r1/neard-git-1.8.4-r1.zip) |
+| **Git 1.8.4** ![](https://raw.github.com/crazy-max/neard-tool-git/master/img/star-20160403.png) | 2013/09/16 | [r1](https://github.com/crazy-max/neard-tool-git/releases/tag/r1) | [neard-git-1.8.4-r1.7z](https://github.com/crazy-max/neard-tool-git/releases/download/r1/neard-git-1.8.4-r1.7z) |
 
 ## Sources
 
