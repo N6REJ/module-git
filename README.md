@@ -14,6 +14,8 @@ Directory structure example :
  |  | [-] git 
  |  |  | [-] git1.8.4
  |  |     | neard.conf
+ |  |  | [-] git2.8.1
+ |  |     | neard.conf
 ```
 
 * Edit the `neard.conf` file and replace the key `gitVersion` with the correct version.
@@ -26,6 +28,7 @@ Directory structure example :
 |               | Git release date | Neard release | Download |
 | --------------|:----------------:|:-------------:|:--------:|
 | **Git 1.8.4** ![](https://raw.github.com/crazy-max/neard-tool-git/master/img/star-20160403.png) | 2013/09/16 | [r1](https://github.com/crazy-max/neard-tool-git/releases/tag/r1) | [neard-git-1.8.4-r1.7z](https://github.com/crazy-max/neard-tool-git/releases/download/r1/neard-git-1.8.4-r1.7z) |
+| **Git 2.8.1** | 2016/04/04 | [r2](https://github.com/crazy-max/neard-tool-git/releases/tag/r2) | [neard-git-2.8.1-r2.7z](https://github.com/crazy-max/neard-tool-git/releases/download/r2/neard-git-2.8.1-r2.7z) |
 
 ## Sources
 
@@ -50,7 +53,7 @@ To create a new bundle :
 * If you want you can change the `build.path` (default `C:\neard-build`).
 * Open a command prompt in your bundle folder and call the Ant target `release` : `ant release`.
 * Upload your release on a file hosting system like [Sendspace](https://www.sendspace.com/).
-* Create an [issue on the Neard repository](https://github.com/crazy-max/neard/issues).
+* Create an [issue on Neard repository](https://github.com/crazy-max/neard/issues) to integrate your release.
 
 ## Issues
 
