@@ -2,6 +2,10 @@
 
 ### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolGit#latest) before downloading.
 
+## r4 (2016/06/20)
+
+* New bundle : 2.9.0
+
 ## r3 (2016/05/12)
 
 * New bundle : 2.8.2
