@@ -1,7 +1,5 @@
 # Changelog
 
-### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolGit#latest) before downloading.
-
 ## r6 (2016/12/02)
 
 * New bundle : 2.11.0
@@ -24,5 +22,5 @@
 
 ## r1 (2016/04/10)
 
-* Init repo with Git bundle from [Neard](https://github.com/crazy-max/neard)
+* Init repo with Git bundle from Neard
 * Add Ant build
