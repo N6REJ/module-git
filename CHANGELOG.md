@@ -1,5 +1,9 @@
 # Changelog
 
+## r8 (2017/05/17)
+
+* New bundle : 2.13.0
+
 ## r7 (2017/03/22)
 
 * New bundle : 2.12.1
