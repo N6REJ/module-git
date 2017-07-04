@@ -1,5 +1,9 @@
 # Changelog
 
+## r9 (2017/07/04)
+
+* New bundle : 2.13.2 (Issue crazy-max/neard#279)
+
 ## r8 (2017/05/17)
 
 * New bundle : 2.13.0 (Issue crazy-max/neard#257)
