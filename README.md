@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/crazy-max/neard) involvin
 
 ## Documentation and downloads
 
-http://neard.io/tools/git
+http://neard.io/modules/git
 
 ## Issues
 
