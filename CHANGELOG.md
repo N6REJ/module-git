@@ -1,5 +1,9 @@
 # Changelog
 
+## r11 (2017/12/30)
+
+* New release : 2.15.1.2 (Issue neard/neard#351)
+
 ## r10 (2017/08/13)
 
 * New release : 2.14.1 (Issue neard/neard#306)
