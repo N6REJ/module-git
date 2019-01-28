@@ -1,5 +1,9 @@
 # Changelog
 
+## r14 (2019/01/28)
+
+* New release : 2.20.1
+
 ## r13 (2018/10/16)
 
 * New release : 2.19.1 (Issue neard/neard#397)
