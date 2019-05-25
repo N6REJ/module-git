@@ -5,7 +5,7 @@ This is a module of [Neard project](https://github.com/neard/neard) involving Gi
 
 ## Documentation and downloads
 
-http://neard.io/modules/git
+https://neard.io/modules/git
 
 ## Issues
 
