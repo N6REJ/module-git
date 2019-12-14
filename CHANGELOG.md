@@ -1,5 +1,9 @@
 # Changelog
 
+## r16 (2019/12/14)
+
+* Git 2.24.1.2 (neard/neard#435)
+
 ## r15 (2019/11/28)
 
 * Git 2.24.0.2 (neard/neard#428)
