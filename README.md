@@ -1,12 +1,12 @@
-[![GitHub release](https://img.shields.io/github/release/neard/module-git.svg?style=flat-square)](https://github.com/neard/module-git/releases/latest)
-![Total downloads](https://img.shields.io/github/downloads/neard/module-git/total.svg?style=flat-square)
+[![GitHub release](https://img.shields.io/github/release/bearsampp/module-git.svg?style=flat-square)](https://github.com/bearsampp/module-git/releases/latest)
+![Total downloads](https://img.shields.io/github/downloads/bearsampp/module-git/total.svg?style=flat-square)
 
-This is a module of [Neard project](https://github.com/neard/neard) involving Git.
+This is a module of [Bearsampp project](https://github.com/bearsampp/bearsampp) involving Git.
 
 ## Documentation and downloads
 
-https://neard.io/modules/git
+https://bearsampp.github.io/modules/git
 
 ## Issues
 
-Issues must be reported on [Neard repository](https://github.com/neard/neard/issues).
+Issues must be reported on [Bearsampp repository](https://github.com/bearsampp/bearsampp/issues).
