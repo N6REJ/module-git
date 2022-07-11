@@ -5,7 +5,7 @@ This is a module of [Bearsampp project](https://github.com/bearsampp/bearsampp) 
 
 ## Documentation and downloads
 
-https://bearsampp.github.io/modules/git
+https://bearsampp.com/module/git
 
 ## Issues
 
