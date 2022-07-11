@@ -12,3 +12,5 @@
 # Visual Studio
 /.vsc
 /.vs
+/.idea/deployment.xml
+/.idea/discord.xml
